@@ -35,7 +35,3 @@ render: function(guess) {
 };
 
 game.play();
-
-
-
-
